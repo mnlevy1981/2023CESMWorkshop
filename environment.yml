@@ -1,0 +1,13 @@
+name: workshop2023
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - cartopy
+    - cmocean
+    - dask
+    - ipykernel
+    - matplotlib
+    - netcdf4
+    - numpy
+    - xarray
